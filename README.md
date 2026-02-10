@@ -1,5 +1,5 @@
 # 📚 Literalura
-O Literalura é um projeto em Java desenvolvido com Spring Boot, cujo objetivo é consumir dados de livros a partir de uma API externa e armazená-los em um banco de dados relacional (PostgreSQL). A aplicação funciona via console, permitindo ao usuário interagir por meio de um menu textual. 
+O Literalura é um projeto em Java desenvolvido com Spring Boot, cujo objetivo é consumir dados de livros a partir da API externa (Gutendex) e armazená-los em um banco de dados relacional (PostgreSQL). A aplicação funciona via console, permitindo ao usuário interagir por meio de um menu textual. 
 
 ## ⚙️ Como o projeto funciona?
 1. A aplicação se conecta a uma API pública de livros para buscar informações literárias.<br>
